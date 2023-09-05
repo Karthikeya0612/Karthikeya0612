@@ -3,17 +3,19 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m working on Neural Style Transfer with TensorFlow.
-- 🌱 &nbsp; I’m currently learning Python Full Stack.
+- 🌱 &nbsp; I’m currently learning Python Full Stack, Machine Learning and Deep Learning.
 - 🤔 &nbsp; Exploring new technologies.
+- :robot: &nbsp; Strong Foundations in Data Structures and Algorithms.
  
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | Django
+- :man_technologist: &nbsp; Streamlit | Numpy | Pandas | Matplotlib
 - 🛢 &nbsp; MySQL | MongoDB 
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+
 
 <br>
 
@@ -26,7 +28,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/karthikeya0612/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:uppukarthikeya2002@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
