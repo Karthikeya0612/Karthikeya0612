@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Uppu Karthikeya </h2>
-<img align="right" alt="IMG" src="./img/banner.jpg" width="400"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m working on Neural Style Transfer with TensorFlow.
