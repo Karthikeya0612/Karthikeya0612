@@ -1,4 +1,8 @@
 <h2> Hey there! I'm Uppu Karthikeya </h2>
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Karthikeya0612/count.svg" />
+</p>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m working on Neural Style Transfer with TensorFlow.
