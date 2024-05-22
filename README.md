@@ -5,8 +5,7 @@
 </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m working on Neural Style Transfer with TensorFlow.
-- 🌱 &nbsp; I’m currently learning Python Full Stack, Machine Learning and Deep Learning.
+- 🌱 &nbsp; I’m currently learning React.js and Tailwind CSS.
 - 🤔 &nbsp; Exploring new technologies.
 - :robot: &nbsp; Strong Foundations in Data Structures and Algorithms.
  
@@ -14,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | Django
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React.js | Tailwind | Django
 - :man_technologist: &nbsp; Streamlit | Numpy | Pandas | Matplotlib
 - 🛢 &nbsp; MySQL | MongoDB 
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
