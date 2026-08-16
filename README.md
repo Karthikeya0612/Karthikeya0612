@@ -5,18 +5,18 @@
 </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 &nbsp; I’m currently learning React Native and TypeScript.
-- 🤔 &nbsp; Exploring new technologies.
-- :robot: &nbsp; Strong Foundations in Data Structures and Algorithms.
+- 💼 &nbsp; Associate Software Engineer at Accenture with 2 years of experience.
+- 💻 &nbsp; MERN Stack Developer.
+- 🚀 &nbsp; Solved 400+ DSA questions on LeetCode (LeetCode: karthikeya0612).
  
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java  | JavaScript
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React.js | Tailwind | Django
-- 📱 &nbsp; React Native | TypeScript | Expo | Firebase
-- 🛢 &nbsp; MySQL | MongoDB 
-- 🔧 &nbsp; PyCharm | Visual Studio code | Andriod Studio| Git
+- **Languages:** Python, JavaScript, TypeScript, HTML5, CSS3
+- **Frontend & Styling:** React, Tailwind CSS
+- **Backend & Database:** Node.js, Express, MongoDB
+- **DevOps & Tools:** Docker, Jenkins, Git, Jira, Postman
+- **AI Assistants:** Claude Code, GitHub Copilot
 
 
 <br>
@@ -32,5 +32,6 @@
 
 <p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/karthikeya0612/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:uppukarthikeya2002@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:karthikeya6122@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
+&nbsp; <a href="https://leetcode.com/karthikeya0612/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" /></a>
 </p>
